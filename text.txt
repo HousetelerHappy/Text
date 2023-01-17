@@ -1,3 +1,14 @@
+
 Hi this time i am pushing new data in the text branch 
 
 hey there i wanna add things in the master at least
+
+this is the text file which I am writing for the living
+flksjflskf
+fjlsfjls
+lsdjfas
+
+## local development in the text branch me done 
+
+need to merge inthe  main/master  branch
+
